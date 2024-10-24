@@ -82,7 +82,7 @@ Run the Streamlit application to access the user interface:
 
 - Invalid rules will prompt an error message during parsing.
 - Database connection issues or data format errors will be displayed as feedback in the UI.
-- 
+  
 ## Contributing
 
 Feel free to fork the repository and submit pull requests for any improvements or new features.
