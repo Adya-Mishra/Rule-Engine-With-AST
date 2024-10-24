@@ -7,7 +7,7 @@ This project implements a **Rule Engine** that utilizes an **Abstract Syntax Tre
 
 ## Live Demo
 
-You can check out the deployed version of the app here: [Rule Engine with AST - Live App]([https://your-deployed-app-link](https://rule-engine-with-ast.streamlit.app/))
+You can check out the deployed version of the app here: [Rule Engine with AST - Live App](https://rule-engine-with-ast.streamlit.app/)
 
 ## Features
 
