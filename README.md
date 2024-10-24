@@ -5,6 +5,10 @@
 
 This project implements a **Rule Engine** that utilizes an **Abstract Syntax Tree (AST)** to evaluate complex rules based on user-defined conditions. The engine allows users to define rules using logical operators and conditions, store these rules in a MySQL database, and evaluate them against specific attributes.
 
+## Live Demo
+
+You can check out the deployed version of the app here: [Rule Engine with AST - Live App]([https://your-deployed-app-link](https://rule-engine-with-ast.streamlit.app/))
+
 ## Features
 
 - **AST Representation**: Construct and visualize rules using an AST.
